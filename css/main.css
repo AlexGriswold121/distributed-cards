@@ -35,8 +35,12 @@ li{
 }
 
 a {
+  border-radius: 8px;
   background: #623b0c;
   color: #fff;
+  justify-content: space-between;
+  text-decoration: none;
+  padding: .6em;
 
 }
 
