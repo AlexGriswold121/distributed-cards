@@ -41,6 +41,9 @@ li{
   display: flex;
   flex-direction: column;
   background: #ede3db;
+  border: 2px solid #623b0c;
+  border-radius: 8px;
+  padding: 1em;
 }
 
 a {
