@@ -18,3 +18,36 @@ h1 {
 color: #623b0c;
 font-family: "Denk One", sans-serif;
 }
+
+h2 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+}
+
+ol {
+  display: grid;
+}
+
+li{
+  display: flex;
+  flex-direction: column;
+  background: #ede3db;
+}
+
+a {
+  background: #623b0c;
+  color: #fff;
+
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+ul {
+  grid-column: auto;
+}
+
+p {
+}
