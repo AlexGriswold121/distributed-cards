@@ -15,9 +15,9 @@ body {
 }
 
 h1 {
-color: #623b0c;
-font-family: "Denk One", sans-serif;
-margin: .27em;
+  color: #623b0c;
+  font-family: "Denk One", sans-serif;
+  margin: .27em;
 }
 
 h2 {
@@ -34,10 +34,9 @@ ol {
   padding-top: .6em;
   margin: .3em;
   list-style: none;
-
 }
 
-li{
+li {
   display: flex;
   flex-direction: column;
   background: #ede3db;
@@ -53,7 +52,6 @@ a {
   justify-content: space-between;
   text-decoration: none;
   padding: .6em;
-
 }
 
 img {
